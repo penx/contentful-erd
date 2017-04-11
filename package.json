@@ -1,0 +1,20 @@
+{
+  "name": "contentful-erd",
+  "version": "1.0.0",
+  "description": "Contentful ERD Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/contentful-erd.git"
+  },
+  "author": "Alasdair McLeay",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/penx/contentful-erd/issues"
+  },
+  "homepage": "https://github.com/penx/contentful-erd#readme"
+}
